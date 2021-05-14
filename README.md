@@ -1,7 +1,7 @@
 # hosts-zx
 hosts-zx is a script auto updating hosts of listed urls, written in [google-zx](https://github.com/google/zx)
 ## hosts
-update at: 2021-4-6 0:44:36
+update at: 2021-4-5 16:52:49
 ```shell
 185.199.108.154              github.githubassets.com
 140.82.113.21                central.github.com
